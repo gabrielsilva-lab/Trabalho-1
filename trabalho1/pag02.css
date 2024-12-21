@@ -1,0 +1,49 @@
+#pag02 {
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 19px;
+}
+
+#titulo1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box {
+    border: 1px solid black;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 50px;
+}
+
+#back2{
+    background-image: linear-gradient(to right, rgb(54, 54, 201), rgba(204, 204, 8, 0.904));
+}
+
+.img_meson {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    height: 80px;
+    width: 140px;
+}
+
+.button {
+    border: 1px solid black;
+    box-shadow: 2px 4px;
+    margin-top: 22px;
+    margin-left: 100px;
+    width: 100px;
+    height: 20px;
+    top: 500px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(199, 195, 195);
+}
+
+.botao {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
